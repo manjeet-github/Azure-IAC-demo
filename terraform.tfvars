@@ -1,0 +1,5 @@
+location       = "westus2"
+prefix         = "singh"
+admin_username = "plankton" 
+admin_password = "Password1234!"
+vm_size = "Standard_D2_v2"
