@@ -26,8 +26,9 @@ variable "tags" {
 
 variable "sku" {
   default = {
-    westus2 = "16.04-LTS"
-    eastus  = "18.04-LTS"
+    westus2 	  = "16.04-LTS"
+    westcentralus = "16.04-LTS"
+    eastus  	  = "18.04-LTS"
   }
 }
 
