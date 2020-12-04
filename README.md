@@ -1,7 +1,8 @@
 # Provision resources in Azure
 # This IAC is used for standing the resources to run an instance.
 # WORKING IN MASTER BRANCH  - Nov 04
-=======
+======= 
+# this is a test
 Terraform code for provisioning the resources
 - Azure Resource Group
 - VNET resource
