@@ -2,7 +2,6 @@
 # This IAC is used for standing the resources to run an instance.
 # WORKING IN MASTER BRANCH  - Nov 04
 # Dec 16th - CSC Demo Run:wq
-# test from manjeet
 ======= 
 # this is a test
 Terraform code for provisioning the resources
